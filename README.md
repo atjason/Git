@@ -1,3 +1,4 @@
-# My Awesome Book
+# Git 学习笔记
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+如题，记录自己学习 Git 过程中的笔记。
+
